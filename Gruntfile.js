@@ -113,7 +113,7 @@ module.exports = function (grunt) {
 	});
 
 	grunt.registerTask("default", [
-		"lint5",
+		// "lint5",
 		"htmlhint",
 		"csslint",
 		"prettyugly",
